@@ -45,7 +45,7 @@
 
 </details>
 
-[website]: https://OnkarSD.github.io
+[website]: https://onkar.netlify.app
 [project]: http://www.learn-code.tk
 [linkedin]: www.linkedin.com/in/onkardherange
 [youtube]: https://youtube.com/channel/UCcXashp5WqfmziGbd-fpfzg
